@@ -101,7 +101,7 @@ GroupDNA/
 ├── GroupDNA.ipynb          # Main Jupyter Notebook
 ├── hostel_bois.txt         # Sample WhatsApp chat dataset
 ├── README.md
-└── screenshots/            # Output screenshots (optional)
+└── screenshots/            # Output screenshots
 ```
 
 ---
