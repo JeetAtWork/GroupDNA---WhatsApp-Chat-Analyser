@@ -149,6 +149,6 @@ This project strengthened my understanding of:
 
 ## Author
 
-**Jeet**
+**Somyajeet Satapathy**
 
 If you found this project useful or interesting, feel free to ⭐ the repository and share your feedback.
